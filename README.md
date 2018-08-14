@@ -4,6 +4,8 @@ Os experimentos foram realizados na disciplina de Comunicações sem fio no curs
 
 Para executar os códigos foi utilizado o software Matlab. Para encontrar o materia teórico acesse o diretório [Teoria de comunicações sem fio.](https://github.com/leticiacoelho/Comunicacoes_sem_fio/tree/master/Teoria)
 
-** A disciplina ainda está em execução, portanto os materiais ainda serão modificados. **
+**A disciplina ainda está em execução, portanto os materiais ainda serão modificados.**
 
 * [Perda de percurso](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/perda_de_percurso.m) - Verificação de erros em transmissão, desconsiderando areas de sombra. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
+
+* [Handoff](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Handoff.m) - Handoff em transmissão. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
