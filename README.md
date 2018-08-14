@@ -1,4 +1,4 @@
-# Comunicações sem fio 
+# Comunicações sem fio
 
 Os experimentos foram realizados na disciplina de Comunicações sem fio no curso de Engenharia de Telecomunicações do Instituto Federal de Santa Catarina - IFSC.
 
@@ -6,6 +6,4 @@ Para executar os códigos foi utilizado o software Matlab. Para encontrar o mate
 
 ** A disciplina ainda está em execução, portanto os materiais ainda serão modificados. **
 
-* [Perda de percurso](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/perda_de_percurso.m) - Verificação de erros em transmissão, desconsiderando areas de sombra.
-
-
+* [Perda de percurso](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/perda_de_percurso.m) - Verificação de erros em transmissão, desconsiderando areas de sombra. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
