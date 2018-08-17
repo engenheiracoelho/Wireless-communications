@@ -9,3 +9,5 @@ Para executar os códigos foi utilizado o software Matlab. Para encontrar o mate
 * [Perda de percurso](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/perda_de_percurso.m) - Verificação de erros em transmissão, desconsiderando areas de sombra. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
 
 * [Handoff](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Handoff.m) - Handoff em transmissão. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
+
+* [Efeito Doppler](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/EfeitoDopler.m) - Efeito Doppler em transmissão. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
