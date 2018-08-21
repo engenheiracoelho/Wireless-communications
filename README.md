@@ -11,3 +11,5 @@ Para executar os códigos foi utilizado o software Matlab. Para encontrar o mate
 * [Handoff](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Handoff.m) - Handoff em transmissão. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
 
 * [Efeito Doppler](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/EfeitoDopler.m) - Efeito Doppler em transmissão. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
+
+* [Efeito Doppler - Componentes multipercurso](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/EfeitoDopler_componentes_multipercurso.m) - Efeito Doppler em transmissão considerando as componentes multipercurso. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).

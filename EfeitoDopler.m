@@ -17,7 +17,15 @@ sinal_rx_40=filter(chan40,info_mod);
 canal_dopler_4 = abs(chan4.PathGains);
 canal_dopler_40 = abs(chan40.PathGains);
 
+figure(1)
 subplot(211)
 plot(20*log10(canal_dopler_4))
 subplot(212)
 plot(20*log10(canal_dopler_40))
+
+figure(2)
+plot(chan4);title('4 Hz');
+
+figure(3)
+plot(chan40);title('40 Hz');
+
