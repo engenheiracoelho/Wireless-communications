@@ -1,19 +1,17 @@
-# Comunicações sem fio
+# Wireless Communications
 
-Os experimentos foram realizados na disciplina de Comunicações sem fio no curso de Engenharia de Telecomunicações do Instituto Federal de Santa Catarina - IFSC.
+This experiments was realized on Wireless communications course into Telecommunications Engineering program from Federal Institute from Santa Catarina - IFSC. 
 
-Para executar os códigos foi utilizado o software Matlab. Para encontrar o materia teórico acesse o diretório [Teoria de comunicações sem fio.](https://github.com/leticiacoelho/Comunicacoes_sem_fio/tree/master/Teoria)
+To execute this codes use Matlab Software. To find the theoretical subject go to the [Wireless Communication Theory] directory (https://github.com/leticiacoelho/Communicacoes_sem_fio/tree/master/Teoria)
 
-**A disciplina ainda está em execução, portanto os materiais ainda serão modificados.**
+* [Loss of wireless communications](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/perda_de_percurso.m) - Verification of errors in transmission, disregarding shadow areas. You can find the theory used for this experiment [here](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
 
-* [Perda de percurso](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/perda_de_percurso.m) - Verificação de erros em transmissão, desconsiderando areas de sombra. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
+* [Handoff](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Handoff.m) - Handoff in transmission. You can find the theory used for this experiment [here](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
 
-* [Handoff](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Handoff.m) - Handoff em transmissão. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
+* [Doppler Effect](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/EfeitoDopler.m) - Doppler Effect in wireless transmission. You can find the theory used for this experiment [here](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
 
-* [Efeito Doppler](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/EfeitoDopler.m) - Efeito Doppler em transmissão. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
+* [Doppler Effect - Multi-path components](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/EfeitoDopler_componentes_multipercurso.m) - Doppler Effect in transmission considering mult-path components. You can find the theory used for this experiment [here](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
 
-* [Efeito Doppler - Componentes multipercurso](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/EfeitoDopler_componentes_multipercurso.m) - Efeito Doppler em transmissão considerando as componentes multipercurso. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/PropLargaEscala.pdf).
+* [Distributions - Rayleight e Rice](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Distribuicao_Rayleigh_Rice.m) - Demonstrate the Rayleight e Rice distributions. You can find the theory used for this experiment [here](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/dist_Ray_Rice.pdf).
 
-* [Distribuição - Rayleight e Rice](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Distribuicao_Rayleigh_Rice.m) - Demonstração das distribuições de Rayleight e Rice. Você pode encontrar a teoria utilizada para este experimento [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/dist_Ray_Rice.pdf).
-
-* [Taxa de Cruzamento](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/TaxadeCruzamento.m) - Taxa de cruzamento, comparativo de erro de bits em um canal e distribuição Rayleight [aqui](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/Desvanecimento.pdf).
+* [Wireless Crossing Rate](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/TaxadeCruzamento.m) - Wireless Crossing Rate, comparative between channel bit error and Rayleigh distribution [here](https://github.com/leticiacoelho/Comunicacoes_sem_fio/blob/master/Teoria/Desvanecimento.pdf).
